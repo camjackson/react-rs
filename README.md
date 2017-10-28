@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # react-rs
 React library for server-side rendering with Rust. Very early days, this doesn't do much yet.
 
